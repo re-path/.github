@@ -1,1 +1,1 @@
-![repath.studio](https://repository-images.githubusercontent.com/374744219/9b970f92-58df-4637-a788-f04d2191ee59)
+![repath.studio](https://github.com/re-path/studio/blob/main/resources/public/img/github-banner.svg)
